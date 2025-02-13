@@ -1,0 +1,39 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\ayala\OneDrive\Escritorio\U\5\MICROS\Prueba1_Leds\Prueba1_Leds\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\ayala\OneDrive\Escritorio\U\5\MICROS\Prueba1_Leds\Prueba1_Leds\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\ayala\OneDrive\Escritorio\U\5\MICROS\Prueba1_Leds\Prueba1_Leds\Debug\Prueba1_Leds.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Prueba1_Leds.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Prueba1_Leds.map</FILE>
+  <FILE>Prueba1_Leds.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <SETUP><FILE>C:\Users\ayala\OneDrive\Escritorio\U\5\MICROS\Prueba1_Leds\Prueba1_Leds\main.asm</FILE><LINE>18</LINE></SETUP>
+  <MAIN_LOOP><FILE>C:\Users\ayala\OneDrive\Escritorio\U\5\MICROS\Prueba1_Leds\Prueba1_Leds\main.asm</FILE><LINE>39</LINE></MAIN_LOOP>
+  <DELAY><FILE>C:\Users\ayala\OneDrive\Escritorio\U\5\MICROS\Prueba1_Leds\Prueba1_Leds\main.asm</FILE><LINE>96</LINE></DELAY>
+  <SUMA><FILE>C:\Users\ayala\OneDrive\Escritorio\U\5\MICROS\Prueba1_Leds\Prueba1_Leds\main.asm</FILE><LINE>89</LINE></SUMA>
+  <ENCENDER_LED1><FILE>C:\Users\ayala\OneDrive\Escritorio\U\5\MICROS\Prueba1_Leds\Prueba1_Leds\main.asm</FILE><LINE>60</LINE></ENCENDER_LED1>
+  <APAGAR_LED1><FILE>C:\Users\ayala\OneDrive\Escritorio\U\5\MICROS\Prueba1_Leds\Prueba1_Leds\main.asm</FILE><LINE>71</LINE></APAGAR_LED1>
+  <ENCENDER_LED2><FILE>C:\Users\ayala\OneDrive\Escritorio\U\5\MICROS\Prueba1_Leds\Prueba1_Leds\main.asm</FILE><LINE>81</LINE></ENCENDER_LED2>
+  <APAGAR_LED2><FILE>C:\Users\ayala\OneDrive\Escritorio\U\5\MICROS\Prueba1_Leds\Prueba1_Leds\main.asm</FILE><LINE>86</LINE></APAGAR_LED2>
+  <SALIR><FILE>C:\Users\ayala\OneDrive\Escritorio\U\5\MICROS\Prueba1_Leds\Prueba1_Leds\main.asm</FILE><LINE>92</LINE></SALIR>
+  <SUB_DELAY1><FILE>C:\Users\ayala\OneDrive\Escritorio\U\5\MICROS\Prueba1_Leds\Prueba1_Leds\main.asm</FILE><LINE>98</LINE></SUB_DELAY1>
+  <SUB_DELAY2><FILE>C:\Users\ayala\OneDrive\Escritorio\U\5\MICROS\Prueba1_Leds\Prueba1_Leds\main.asm</FILE><LINE>103</LINE></SUB_DELAY2>
+  <SUB_DELAY3><FILE>C:\Users\ayala\OneDrive\Escritorio\U\5\MICROS\Prueba1_Leds\Prueba1_Leds\main.asm</FILE><LINE>108</LINE></SUB_DELAY3>
+ </LABELS>
+</ASSEMBLER_INFO>
